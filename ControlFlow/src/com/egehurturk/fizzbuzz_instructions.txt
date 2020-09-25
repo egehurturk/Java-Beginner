@@ -1,0 +1,9 @@
+input NUMBER:
+    if NUMBER % 5 == 0:
+        print Fizz
+    if NUMBER % 3 == 0:
+        print Buzz
+    if NUMBER % 3 == 0 && NUMBER % 5 == 0:
+        print FizzBuzz
+    else:
+        print NUMBER
